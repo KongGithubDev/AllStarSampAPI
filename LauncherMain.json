@@ -12,7 +12,7 @@
   "LUAC": "999",
   "CBURLLIST": "modloader,false|modloader.asi,false|moonloader,false|moonloader.asi,false",
   "FFC": "-1",
-  "UpdateWithLink": "http://210.246.215.110/launcher/PinkLandLauncherUpdate.tmp",
-  "LUpdateWithLink": "http://210.246.215.110/launcher/PinkLandUpdateFileReplace.tmp",
+  "UpdateWithLink": "http://210.246.215.110/launcher/LauncherUpdate.tmp",
+  "LUpdateWithLink": "http://210.246.215.110/launcher/UpdateFileReplace.tmp",
   "PIC": "https://img2.imgbiz.com/imgbiz/Songkran-CBKP1.01.1.png"
 }
